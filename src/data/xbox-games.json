@@ -49,15 +49,15 @@
       "priceLibyana": 110
     },
     {
-      "id": "full-4",
-      "title": "Minecraft",
+      "id": "full-8",
+      "title": "Elden ring",
       "titleAr": "حساب كامل",
-      "image": "/images/xbox-games/full-new-1779604750293.jpg",
+      "image": "/images/xbox-games/full-new-1788868511480.jpg",
       "games": [
-        "Minecraft"
+        "Elden ring"
       ],
-      "priceLYD": 50,
-      "priceLibyana": 65
+      "priceLYD": 135,
+      "priceLibyana": 150
     },
     {
       "id": "full-5",
@@ -67,8 +67,8 @@
       "games": [
         "Red dead 2"
       ],
-      "priceLYD": 95,
-      "priceLibyana": 120
+      "priceLYD": 105,
+      "priceLibyana": 125
     },
     {
       "id": "full-6",
@@ -80,6 +80,17 @@
       ],
       "priceLYD": 65,
       "priceLibyana": 85
+    },
+    {
+      "id": "full-4",
+      "title": "Minecraft",
+      "titleAr": "حساب كامل",
+      "image": "/images/xbox-games/full-new-1779604750293.jpg",
+      "games": [
+        "Minecraft"
+      ],
+      "priceLYD": 50,
+      "priceLibyana": 65
     }
   ]
 }
